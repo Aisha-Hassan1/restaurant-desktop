@@ -37,11 +37,7 @@ https://github.com/Aisha-Hassan1/restaurant-desktop/assets/140133347/f7619d62-ec
 
 
 
-## Screenshots
-![screenshots](imges/11.jpeg)
-![screenshots](imges/12.jpeg)
-![screenshots](imges/14.jpeg)
-![screenshots](imges/15.jpeg)
+
 
 
 
