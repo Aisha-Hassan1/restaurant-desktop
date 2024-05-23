@@ -19,7 +19,7 @@ Welcome to the Restaurant Desktop App project! This desktop application, built w
 ## Installation
 1. Clone the repository:
     ```
-    git clone https://github.com/Aisha-Hassan1/restaurant-desktop-app.git
+    git clone https://github.com/Aisha-Hassan1/restaurant-desktop.git
     ```
 2. Navigate to the project directory:
 3. Open the solution file in Visual Studio.
@@ -33,14 +33,13 @@ Welcome to the Restaurant Desktop App project! This desktop application, built w
 5. Access managerial features as required.
 
 ## Video Demonstration
-![video demonstration](video/Project.mp4.lnk)
+![video demonstration](video/Project.mp4)
 
 
 ## Screenshots
-![screenshots](imges/11.jpeg.lnk)
-![screenshots](imges/12.jpeg.lnk)
-![screenshots](imges/14.jpeg.lnk)
-![User List Page](imges/15.jpeg)
+![screenshots](imges/11.jpeg)
+![screenshots](imges/12.jpeg)
+![screenshots](imges/14.jpeg)
 ![screenshots](imges/15.jpeg)
 
 
