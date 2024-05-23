@@ -33,7 +33,8 @@ Welcome to the Restaurant Desktop App project! This desktop application, built w
 5. Access managerial features as required.
 
 ## Video Demonstration
-![video demonstration](video/Project.mp4)
+https://github.com/Aisha-Hassan1/restaurant-desktop/assets/140133347/f7619d62-ec9f-4d35-9953-f90273f3d123
+
 
 
 ## Screenshots
